@@ -5,5 +5,5 @@ Then open cmd
 write python if not installed download it.Do not forget to "add to path"
 Then write "pip --version" if it is telling that  it is not recognised then write "python ensurepip --upgrade"
 after installation download matplotlib module"pip install matplotlib"
-now run the "Rnadom Walk.py"
+now run the "Rnadom Walk.py"(Rnadom Walk.py,not_able.py)
 
